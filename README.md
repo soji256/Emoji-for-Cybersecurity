@@ -3,6 +3,7 @@ A list of Emoji that represent cybersecurity terms.
 
 情報を整理する際にタイトルやタグの先頭に付与することで、一覧表示された際にカテゴリを視覚的に判断できるように。
   
+## Emoji
 🎃マルウェア / Malware  
 🧨Exploit Kit (EK)  
 🤡攻撃者グループ / APT groups  
@@ -27,3 +28,6 @@ A list of Emoji that represent cybersecurity terms.
 📑メモ / Notes    
 📚参考資料 / References  
 
+
+## Image
+![image](https://user-images.githubusercontent.com/37587727/118131546-a0de7080-b439-11eb-9a37-8f2f26fd2640.png)
