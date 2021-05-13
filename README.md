@@ -29,5 +29,5 @@ A list of Emoji that represent cybersecurity terms.
 📚参考資料 / References  
 
 
-## Image
+## Image (Windows)
 ![image](https://user-images.githubusercontent.com/37587727/118131546-a0de7080-b439-11eb-9a37-8f2f26fd2640.png)
