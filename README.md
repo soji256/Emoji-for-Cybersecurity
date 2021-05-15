@@ -1,7 +1,8 @@
 # Emoji for Cybersecurity
 A list of Emoji that represent cybersecurity terms.
 
-情報を整理する際にタイトルやタグの先頭に付与することで、一覧表示された際にカテゴリを視覚的に判断できるように。
+サイバーセキュリティ関連の情報を整理するのに便利な絵文字。  
+メモのタイトルやタグの先頭に付与することで、一覧表示された際にカテゴリを視覚的に判断できるようになる。
   
 ## Emoji
 🎃マルウェア / Malware  
@@ -19,7 +20,7 @@ A list of Emoji that represent cybersecurity terms.
 🏛政府関連 / Government  
 🎭フォーラム / Hacker Forum  
 🚨事件化・逮捕 / Arrested   
-⛏ツール / Tools  
+🧰ツール / Tools  
 🗡PoC・Exploit  
 📘法案 / Law (Bill)  
 ⚖裁判・起訴・判決 / Judgement   
@@ -30,4 +31,4 @@ A list of Emoji that represent cybersecurity terms.
 
 
 ## Image (Windows)
-![image](https://user-images.githubusercontent.com/37587727/118131546-a0de7080-b439-11eb-9a37-8f2f26fd2640.png)
+![image](https://user-images.githubusercontent.com/37587727/118362888-a4eec780-b5cc-11eb-80dc-81f020c3fe20.png)
